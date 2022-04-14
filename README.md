@@ -6,7 +6,6 @@
 - [**_Youtube_**](https://www.youtube.com/channel/UCwmyBjDNow69-4A2jCRe4Sg)
 - [**Discord**](https://discord.gg/2drcthqyAF)
 
-
 <br/>
 
 ## 🤔 Languages and Tools I use a lot:
@@ -21,7 +20,6 @@
   <br/>
 </p>
 
-<br/>
 
   ## :trophy: My Github Stats:
 <div>
@@ -32,4 +30,3 @@
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ESCKaybeden&hide=php&theme=material-palenight" />
   </a>
 </div>
-
