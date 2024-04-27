@@ -2,9 +2,9 @@
   <h1>Hi there, I'm ESCKaybeden 👋</h1>
 </div>
   
-- **_ESCKaybeden#0488_**
-- [**_Youtube_**](https://www.youtube.com/channel/UCwmyBjDNow69-4A2jCRe4Sg)
-- [**Discord**](https://discord.gg/2drcthqyAF)
+- [**_Youtube_**](https://youtu.be/xs9HUHDtX_o)
+- [**Tebex**](https://uzstore.tebex.io)
+- [**Discord**](https://discord.gg/8zhnDMMfNk)
 
 <br/>
 
